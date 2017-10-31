@@ -1,6 +1,6 @@
 # Corporation-Favorita-Kaggle
 
-This repository contains an initial exploratory analysis of the datasets provided for the "Corporación Favorita Grocery Sales Forecasting" Kaggle competition. Here is the competition link:
+This repository contains an initial exploratory analysis of the datasets provided for the "Corporación Favorita Grocery Sales Forecasting" Kaggle competition. The analysis is done in R. Here is the competition link:
 
 https://www.kaggle.com/c/favorita-grocery-sales-forecasting
 
